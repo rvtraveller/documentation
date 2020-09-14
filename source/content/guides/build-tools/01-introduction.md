@@ -24,7 +24,9 @@ Using Build Tools will make it easy to create new projects that:
 1. Allow customization with your choice of Git provider and Continuous Integration (CI) service.
 2. Provides extra Terminus commands and customization options for common workflow tasks and to customize your build
 3. Includes templates and best practices to help level up WebOps teams with automated testing, composer updates, and more
-4. Avoid the complexity of combining multiple Pantheon start-state repositories on your own 
+4. Avoid the complexity of combining multiple Pantheon start-state repositories on your own
+
+Build Tools is also capable of [converting existing projects](/docs/guides/build-tools/convert/) to the Build Tools workflow.
 
 ### A Build Tools Project's Components
 
